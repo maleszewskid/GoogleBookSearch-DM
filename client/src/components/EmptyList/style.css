@@ -1,5 +1,6 @@
 h2 {
-    font-size: 150px;
+    font-size: 100px;
     font-weight: bold;
-    color: blue
+    color: blue;
+    text-align: center;
 }
