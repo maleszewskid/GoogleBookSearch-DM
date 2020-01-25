@@ -7,5 +7,6 @@ button {
     display:inline-block;       
     margin: auto;
     width: auto; 
-    color: rgb(89, 89, 248);
+    background-color: lightblue;
+    color: black;
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 // import './SearchBtn.css';
-
+import "./style.css"
 const SearchBtn = props => {
 
     return (
