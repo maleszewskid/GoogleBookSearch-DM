@@ -6,7 +6,7 @@ function Jumbotron({ children }) {
       style={{ height: 250, clear: "both", paddingTop: 100, textAlign: "center"}}
       className="jumbotron"
     >
-      <h1>The Google React Reading List</h1>
+      <h1>Google Reading List</h1>
     </div>
   );
 }
